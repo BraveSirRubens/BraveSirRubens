@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BraveSirRubens
+- 👋 Hi, I’m @RubensDuprat
 - 👀 I’m interested in front-end web development.
 - 🌱 I’m currently learning HTML web development.
 - 💞️ I’m looking to collaborate on websites.
